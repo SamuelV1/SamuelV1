@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamuelV1
-- 👀 I’m interested in: Coding(kek), investiments and economy 
+- 👀 I’m interested in: Coding(kek), investments and economy 
 - 🌱 I’m currently learning: javascript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: don't
