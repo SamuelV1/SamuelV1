@@ -17,7 +17,7 @@ Porem sou na verdade bastante ativo, participo de bootcamps e faço o curso da O
 
 -"E como ainda sim você possui tão pouco commits"
 
-**meu principal repositório e mantido privado pois como la e onde fica todos meus códigos mais "feios"(ou onde texto novas técnicas ou salvo dicas para mim mesmo) não quero eles refletindo sobre meus outros projetos**
+**meu principal repositório e mantido privado pois como la e onde fica todos meus códigos mais "feios"(ou onde testo novas técnicas ou salvo dicas para mim mesmo) não quero eles refletindo sobre meus outros projetos**
 
 imagem do repo:
 (irei atualizar a cada 1/2 meses)
