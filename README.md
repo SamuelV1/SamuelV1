@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Coding(kek), investments and economy 
 - 🌱 I’m currently learning: React and Node
 - 💞️ I’m looking to collaborate anywhere ppl accept me to
-- 📫 How to reach me: i will be happy to answer you on: Samuelvic@protonmail.com
+- 📫 How to reach me: _-_-_-_-_-
 
 <!---
 SamuelV1/SamuelV1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,4 @@ Porem sou na verdade bastante ativo, participo de bootcamps e faço o curso da O
 
 **meu principal repositório e mantido privado pois como la e onde fica todos meus códigos mais "feios"(ou onde testo novas técnicas ou salvo dicas para mim mesmo) não quero eles refletindo sobre meus outros projetos**
 
-imagem do repo:
-(irei atualizar a cada 1/2 meses)
-<img src="https://i.ibb.co/4psw1hZ/commits.png" alt="commits" border="0">
-  data da img 20/07
 #
