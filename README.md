@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelV1
 - 👀 I’m interested in: Coding(kek), investments and economy 
-- 🌱 I’m currently learning: React and Node
+- 🌱 I’m currently learning: React and Typescript
 - 💞️ I’m looking to collaborate anywhere ppl accept me to
 - 📫 How to reach me: _-_-_-_-_-
 
