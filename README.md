@@ -13,9 +13,9 @@ Notasse que no meu perfil tem um baixo nível de commits e projetos:
 [![card](https://github-readme-stats.vercel.app/api?username=SamuelV1&theme=dark)](https://github.com/SamuelV1/)
 
 
-Porem sou na verdade bastante ativo, participo de bootcamps e faço o curso da Odin.
+Porem sou na verdade bastante ativo
 
--"E como ainda assim você possui tão pouco commits"
+-"E como assim você possui tão pouco commits"
 
 **meu principal repositório e mantido privado pois como la e onde fica todos meus códigos mais "feios"(ou onde testo novas técnicas ou salvo dicas para mim mesmo) não quero eles refletindo sobre meus outros projetos**
 
