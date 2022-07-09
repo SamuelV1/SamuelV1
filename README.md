@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelV1
 - 👀 I’m interested in: Coding(kek), investments and economy 
-- 🌱 I’m currently learning: Typescript
+- 🌱 I’m currently learning: Typescript & python
 - 💞️ I’m looking to collaborate anywhere ppl accept me to
 - 📫 How to reach me: linkedin
 
