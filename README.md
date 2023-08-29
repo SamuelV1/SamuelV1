@@ -1,12 +1,16 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=SamuelV1&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-### Samuel vicente 20 anos estudante de Eng. Eletrônica na UFRPE 
+## Samuel Vicente | Eng. Eletrônica na UFRPE | Desenvolvedor Web/Mobile
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SamuelV1&color=f8efd4&style=for-the-badge&logo=GitHub">
-
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <p>
 
-Estudando Eng. Eletronica na UFRPE<br/>
+
+🔭 Atualmente: Focado em Engenharia Eletrônica na UFRPE.
+
+🌐 Desenvolvedor: Trabalho com React, React Native e JavaScript para criar experiências interativas. Também tenho experiência em Python.
+
+Conecte-se comigo: [GitHub](https://github.com/SamuelV1) | [LinkedIn](https://www.linkedin.com/in/samuel-vicente-940b3b175/)
 
 Desenvolvedor Web/mobile.
 <br>
